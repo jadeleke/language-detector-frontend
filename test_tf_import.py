@@ -1,0 +1,4 @@
+# test_tf_import.py
+import tensorflow as tf
+print(tf.__version__)
+print(tf.keras.__name__)
